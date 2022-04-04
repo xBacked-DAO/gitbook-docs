@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About](README.md)
+* [Litepaper](litepaper.md)
 * [FAQ](faq.md)
 * [Community Links](community-links.md)
 * [Open Source Work](open-source-work.md)
