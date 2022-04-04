@@ -10,7 +10,7 @@ MyAlgo Connect is the most popular browser based wallet for Algorand dApps. It r
 
 ### Chrome / Brave
 
-Chrome or Chrome based browsers like Brave, y will receive a small prompt in the top right hand corner of your browser. Click on this, and allow pop ups for xBacked.
+Chrome or Chrome based browsers like Brave, you will receive a small prompt in the top right hand corner of your browser. Click on this, and allow pop ups for xBacked.
 
 ![](<../.gitbook/assets/image (1).png>)
 
