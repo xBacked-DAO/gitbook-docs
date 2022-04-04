@@ -10,7 +10,7 @@ No fees.
 
 ## Interest rate
 
-Varies per collateral type. Initially, the Algo/xUSD vault will be set to 2%. This rate can only change by **launching a new vault**. This means old vaults wil have a staic rate applied, which cannot change.
+Varies per collateral type. Initially, the Algo/xUSD vault will be set to 2%. This rate can only change by **launching a new vault**. This means old vaults wil have a static rate applied, which cannot change.
 
 ## Liquidations
 
