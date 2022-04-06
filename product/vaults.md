@@ -36,7 +36,7 @@ Note: this 120% is only enforced on the frontend; if you would like to mint more
 
 ## What is the minimum collateral deposit required to open a Vault?
 
-There will be a minimum mint amount to open a vault on xBacked, which is `100 xUSD`. This is subject to change via governance proposals. The reaosning is that a bad actor could spam vaults and fill xBacked with junk vaults quite cheaply. This would slow down liquidators monitoring legitimate vaults, and decrease overall health of the protocol.
+There will be a minimum mint amount to open a vault on xBacked, which is `100 xUSD`. This is subject to change via governance proposals. The reasoning is that a bad actor could spam vaults and fill xBacked with junk vaults quite cheaply. This would slow down liquidators monitoring legitimate vaults, and decrease overall health of the protocol.
 
 ## What collateral types does xBacked support?
 

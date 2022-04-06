@@ -10,7 +10,7 @@ description: Terms used in the xBacked protocol
 
 **System Debt:** the total supply of xUSD in the system
 
-**Vault:** owned by a user, and it is the primary mechnaism for a user to mint xUSD
+**Vault:** owned by a user, and it is the primary mechanism for a user to mint xUSD
 
 **Vault Debt:** the amount of xUSD a vault minted.
 
