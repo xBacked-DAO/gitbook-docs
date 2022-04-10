@@ -15,6 +15,7 @@
   * [Staking xUSD](product/liquidations/staking-xusd.md)
 * [Redemptions](product/redemptions.md)
 * [Fees](product/fees.md)
+* [xUSD Stability](product/xusd-stability.md)
 
 ## Tokenomics
 
