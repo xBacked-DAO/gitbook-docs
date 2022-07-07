@@ -14,7 +14,7 @@ Varies per collateral type. Initially, the Algo/xUSD vault will be set to 2%. Th
 
 ## Liquidations
 
-A liquidator will receive a 3.5% discount when liquidating a vault.
+A liquidator will receive a discount when liquidating a vault. For example, it might be 3.5%.
 
 The protocol will charge a 1% fee on this collateral, so the liquidator effectively gets a 2.5% discount.
 
@@ -22,10 +22,10 @@ If the liquidator uses staked xUSD, the staker will receive a 2% discount, the l
 
 ## Redemption
 
-When redeeming, a 2% fee is applied to the collateral. For example, if you redeem 100 xUSD for $100 ALGO, you will receive $98 worth of ALGO.
+When redeeming, a fee is applied to the collateral. For example, if you redeem 100 xUSD for $100 ALGO, you will receive $98 worth of ALGO.
 
 {% hint style="info" %}
-With a 2% fee on redemptions, it only becomes worthwhile when xUSD is trading below the $1 peg.
+Example: with a 2% fee on redemptions, it only becomes worthwhile when xUSD is trading below the $0.98 peg
 {% endhint %}
 
 ## Fee Distribution

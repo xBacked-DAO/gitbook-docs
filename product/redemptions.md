@@ -14,8 +14,8 @@ When a user redeems xUSD on xBacked, the redemption is made against **the riskie
 
 The owner of a vault will not incur a net loss, but exposure to their collateral will be reduced.
 
-There is a 2% fee taken from **the redeemed** collateral. For example, if you redeem 100 xUSD for $100 worth of Algo, 2% will be taken by the protocol as a fee.
+There is a small fee taken from **the redeemed** collateral. For example, if you redeem 100 xUSD for $100 worth of Algo, the fee will be taken by the protocol as a fee.
 
 ## Proposing Vaults for Redemption
 
-Vaults are not sorted on chain. Instead, the protocol relies on a network of Keepers monitoring for riskier vaults than those in the current list. When one of these keepers finds a riskier vault, and successfully propose it, they receive 0.075% of that vaults collateral as a reward.
+Vaults are not sorted on chain. Instead, the protocol relies on a network of Keepers monitoring for riskier vaults than those in the current list. When one of these keepers finds a riskier vault, and successfully propose it, they receive 0.075% of that vaults collateral as a reward with the protocol taking 0.025% as a fee to distribute.
