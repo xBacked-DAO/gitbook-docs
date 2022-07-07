@@ -63,3 +63,9 @@ In reality, it is highly likely that a bot will liquidate a vault before you wil
 Once you fetch vaults, you will be presented with a list of vaults that can be liquidated. Clicking on "Liquidate" will take you to a page where you can repay xUSD & receive discounted collateral for improving the health of the vault
 
 ![](<../.gitbook/assets/CleanShot 2022-07-07 at 12.34.48.gif>)
+
+## Redemptions
+
+When xUSD is trading below the $1 target, it becomes profitable to buy it on a DEX and redeem it for $1 of underlying collateral. Choose which collateral to redeem. There is a small fee involved in redemption, taken from the redeemed collateral
+
+![](<../.gitbook/assets/CleanShot 2022-07-07 at 12.41.52.gif>)
