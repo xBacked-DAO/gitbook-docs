@@ -16,7 +16,7 @@ Staking xUSD requires those tokens to be used in liquidations executed by the pr
 
 To maintain a stable value for xUSD the following methods are used:
 
-* Over collaterization of approved forms of collateral (beginning with ALGO). 1 xUSD token is backed by **more than $1 USD of collateral.** This is maintained through [liquidations](../product/liquidations/).
+* Over collaterization of approved forms of collateral (beginning with ALGO). 1 xUSD token is backed by **more than $1 USD of collateral.** This is maintained through [liquidations](../product/liquidations.md).
 * Arbitrage when xUSD is discounted: if the price of xUSD is trading at a discount (below $1 USD) users are able to purchase it, and repay debt at a cheaper rate. As participants purchase xUSD the price rises
 * Arbitrage when xUSD is trading at a premium: if the price of xUSD is trading at a premium (above $1 USD) participants could deposit collateral to mint xUSD to then sell on the open market. This selling of xUSD reduces the price.
 * Redemption: [read about redemption here](../product/redemptions.md).
@@ -27,4 +27,4 @@ This is the token used in governance of the xBacked protocol. Staking this token
 
 To receive fee distributions from the protocol for staking governance tokens, you must participate in governance. Without participating in governance, fees for staking will not be distributed.
 
-There are no guarantees that the governance token has any value, whatsoever.&#x20;
+There are no guarantees that the governance token has any value, whatsoever.
