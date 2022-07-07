@@ -21,26 +21,30 @@ If you repay the vault debt, the vault is closed and any collateral still in the
 xBacked is an over collaterized stablecoin. This means that there must **always be more collateral in the system than debt**. This is a common DeFi primitive call a Collaterized Debt Position (CDP). Collateral Ratios are calculated using the following formula:
 
 $$
-Collateralization\space Ratio\space  (CR)={\sum Value\space of\space Collateral\over\sum Value\space of\space Debt}
+Collateralization\space Ratio\space (CR)={\sum Value\space of\space Collateral\over\sum Value\space of\space Debt}
 $$
 
 ## **What are the minimum collateral ratios for Vaults?**
 
-Vaults have a **minimum collateral ratio of 110%.** Below this level, vaults become available for liquidation.
+Vaults have a **minimum collateral ratio which varies per vault.** Below this level, vaults become available for liquidation.
 
-To withdraw collateral, or to mint new debt, the collateral ratio **must be above 120%**.
+To withdraw collateral, or to mint new debt, the collateral ratio **must be above a certain collateral ratio**.
 
 {% hint style="info" %}
-Note: this 120% is only enforced on the frontend; if you would like to mint more, it is possible via the SDK or other frontends
+Note: the frontend by default enforces a margin of saftey when updating a vault. If you would like to push the limits of a vault, it is possible via the SDK or by using DEGEN Mode
 {% endhint %}
 
 ## What is the minimum collateral deposit required to open a Vault?
 
 There will be a minimum mint amount to open a vault on xBacked, which is `100 xUSD`. This is subject to change via governance proposals. The reasoning is that a bad actor could spam vaults and fill xBacked with junk vaults quite cheaply. This would slow down liquidators monitoring legitimate vaults, and decrease overall health of the protocol.
 
+## Is there a maximum vault collateral size?
+
+Yes, vaults will have a maximum dollar value for the collateral allowed. This is to help mitigate the risk of a vault being too large to liquidate with on chain liquidity.
+
 ## What collateral types does xBacked support?
 
-Currently, xBacked only supports ALGO as collateral. Over time this might change based on governance proposals created by the community. We plan to support goBTC and goETH quite quickly after our mainnet launch.
+xBacked is multi-collateral and supports a diverse range of collateral types. To beign with, we will support Algos, BTC, ETH and gAlgo.
 
 ## Do Vaults have an interest rate?
 
@@ -52,7 +56,7 @@ No, there is no repayment schedule for xUSD. When a user mints xUSD there is **n
 
 ## What happens if my Vault is liquidated?
 
-If your vault collateral ratio drops below `110%` then it is liquidated. In this case, your vault will be liquidated back to `120%` and you will be left with the remaining vault collateral & xUSD.
+If your vault collateral ratio drops below the minium (e.g`110%`) then it is liquidated. In this case, your vault will be liquidated back to `120%` and you will be left with the remaining vault collateral & xUSD.
 
 In this process, liquidators repay your vaults debt.
 
