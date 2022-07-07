@@ -26,7 +26,7 @@ Click on the "Create Vault" button, and you will be presented with a screen that
 
 In the next step you will be asked to confirm the vault details before initiating vault creation.
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (9).png>)
 
 Note: on your first time using xBacked you will be prompted with three transactions; one to opt-into the xUSD token, one to opt-into the Vault application, and the third will be to deposit collateral and mint xUSD.
 
@@ -34,11 +34,11 @@ Note: on your first time using xBacked you will be prompted with three transacti
 
 When you have created a vault, the main screen will update.
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (12).png>)
 
 Clicking on "View Vault" will show you all the actions you can do with your vault.
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (11).png>)
 
 Each these actions will either improve the health of your vault, or make it worse.
 
