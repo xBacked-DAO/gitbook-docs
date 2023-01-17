@@ -8,4 +8,6 @@ X Governance Token: [https://algoexplorer.io/asset/466872875](https://algoexplor
 
 xUSD: [https://algoexplorer.io/asset/760037151](https://algoexplorer.io/asset/760037151)
 
-Vault Contracts: not launched yet
+Vault Contracts:
+
+Algo/xUSD vault: [https://algoexplorer.io/application/1012903350](https://algoexplorer.io/application/1012903350)

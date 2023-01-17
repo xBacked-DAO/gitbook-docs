@@ -1,5 +1,5 @@
 # Staking X Governance Tokens
 
 {% hint style="info" %}
-Check back later
+Coming soon!
 {% endhint %}
