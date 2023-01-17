@@ -16,6 +16,7 @@
 * [Redemptions](product/redemptions.md)
 * [Fees](product/fees.md)
 * [xUSD Stability](product/xusd-stability.md)
+* [Shutdown Mode](product/shutdown-mode.md)
 
 ## Tokenomics
 
