@@ -36,14 +36,14 @@ These are the beginning metrics - and can be modified later via governance.
 
 These fees accrue in the contract over time. Anyone can trigger fee distribution, and when they do they receive 0.5% of the accrued fees. These Algo fees go to the following
 
-* 50% to xUSD stakers in the liquidation contract
-* 50% to the DAO address
+* 0% to xUSD stakers in the liquidation contract (initially this will be 0%, the parameter can be modified)&#x20;
+* 100% to the DAO treasury address
 
 **xUSD Fees (generated via interest)**
 
 Over time, interest accrues in the contract in the form of xUSD. Anyone can trigger the settlment of these fees. Upon settlement, the caller receives no reward. However, the fees are distributed in the following way
 
-* 50% to the DAO address
-* 50% to the governance token stakers
+* 100% to the DAO treasury address
+* 0% to the governance token stakers (the parameter can be modified)
 
 The incentive here is for those staking governance tokens to trigger fee distribution for xUSD fees.
