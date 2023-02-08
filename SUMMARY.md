@@ -12,7 +12,7 @@
 * [Product Walkthrough](product/product-walkthrough.md)
 * [Minting xUSD](product/vaults.md)
 * [Liquidations](product/liquidations/README.md)
-* [xUSD Stability Pool](product/liquidations/staking-xusd.md)
+  * [Staking xUSD](product/liquidations/staking-xusd.md)
 * [Redemptions](product/redemptions.md)
 * [Fees](product/fees.md)
 * [xUSD Stability](product/xusd-stability.md)

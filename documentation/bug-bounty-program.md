@@ -21,9 +21,9 @@ If you discover any security bugs within our web app, or within server configura
 
 If you find a bug or exploit in our smart contracts, and disclose is responsibly, we will pay out the following levels. Over time as the TVL of the protocol grows, so will these pay out scales. We use the [Immunefi Vulnerability Classification System](https://immunefi.com/severity-system/) to classify smart contract bugs.
 
-| Level                           | Payout             |
-| ------------------------------- | ------------------ |
-| Critical (funds can be drained) | Up to $100,000 USD |
-| High                            | Up to $20000       |
-| Medium                          | Up to $5000        |
-| Low                             | Up to $1000        |
+| Level                           | Payout                                     |
+| ------------------------------- | ------------------------------------------ |
+| Critical (funds can be drained) | Up to $50,000 USD, more depending on scale |
+| High                            | Up to $20,000                              |
+| Medium                          | Up to $5,000                               |
+| Low                             | Up to $1,000                               |
