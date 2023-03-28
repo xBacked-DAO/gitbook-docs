@@ -13,6 +13,7 @@ Vault Contracts:
 | Vault Id   | Collateral  | Liq Discount | Min C.R | Liq CR | Interest Rate |
 | ---------- | ----------- | ------------ | ------- | ------ | ------------- |
 | 1012903350 | Algo        | 5%           | 120%    | 115%   | 3% per annum  |
+| 1065042555 | gAlgo       | 10           | 130%    | 125%   | 3%            |
 
 
 
