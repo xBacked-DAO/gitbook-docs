@@ -14,8 +14,6 @@ If you discover any security bugs within our web app, or within server configura
 | ----- | --------------------------------------------- |
 | P1    | $1500+ USD (depending on severity and impact) |
 | P2    | Up to $750                                    |
-| P3    | Up to $500                                    |
-| P4    | Up to $250                                    |
 
 #### Scope: Smart contracts
 
