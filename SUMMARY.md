@@ -37,7 +37,6 @@
 ## Documentation
 
 * [Glossary](documentation/glossary.md)
-* [Bug Bounty Program](documentation/bug-bounty-program.md)
 
 ## Contracts & Tokens
 

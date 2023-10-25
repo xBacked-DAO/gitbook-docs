@@ -58,4 +58,4 @@ Yes, we are working towards a fully decentralized governance model.
 
 ## Does xBacked have a bug bounty program?
 
-Absolutely, [please follow the documentation](documentation/bug-bounty-program.md) to participate in our bug bounty program.
+Absolutely, [please follow the documentation](broken-reference) to participate in our bug bounty program.
