@@ -6,16 +6,11 @@ description: Details about redemptions in the xBacked protocol
 
 ## What are redemptions?
 
-Redemptions are a mechanism witin xBacked that **guarantee 1 xUSD can always be redeemed for $1 USD of underlying collateral**. This is different to repaying your own debt. It is more like paying down system debt in the event the value of XUSD drops below $1 USD
+Redemptions are a mechanism within xBacked that **guarantees 1 xUSD can always be redeemed for $1 USD of underlying collateral**. This is different from repaying your debt. It is more like paying down system debt. This feature is only available 7 days after shutdown and is incentivized by allowing the user to purchase xUSD at a 1% discount
 
 ## How do redemptions work?
 
-When a user redeems xUSD on xBacked, the redemption is made against **the riskiest vault in the system** even if that vault's collateral ratio is over the minimum of `110%`. The xUSD is then used to repay some of that vaults debt, and the collateral transferred from the vault to the redeemer.
+A user can redeem xUSD from any vault of their choice 7 days after shutdown, the protocol allows this at a 1% discount. During redemption, the protocol keeps 0.5% of discounted collateral and sends the remaining to the user.  The xUSD is used to repay the vaults debt and discounted collateral is sent to the user who performed the redemption. &#x20;
 
-The owner of a vault will not incur a net loss, but exposure to their collateral will be reduced.
+The owner of a vault incurs a net loss because the collateral is purchased at a discount although this will lead to a healthier collateral ratio for such vaults.
 
-There is a small fee taken from **the redeemed** collateral. For example, if you redeem 100 xUSD for $100 worth of Algo, the fee will be taken by the protocol as a fee.
-
-## Proposing Vaults for Redemption
-
-Vaults are not sorted on chain. Instead, the protocol relies on a network of Keepers monitoring for riskier vaults than those in the current list. When one of these keepers finds a riskier vault, and successfully propose it, they receive 0.075% of that vaults collateral as a reward with the protocol taking 0.025% as a fee to distribute.
