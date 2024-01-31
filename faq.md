@@ -39,7 +39,7 @@ xBacked does not natively allow users to stake Algos for governance. Instead, we
 | ------------ | --------------------- |
 | Minting xUSD | 0%, annual supply fee |
 | Liquidations | 1%                    |
-| Redemptions  | 0.5-2%                |
+| Redemptions  | 0.5%                  |
 
 ## What is the minimum collateral ratio?
 
