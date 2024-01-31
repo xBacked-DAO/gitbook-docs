@@ -24,6 +24,3 @@ Vault Contracts:
 </code></pre></td><td>mAlgo</td><td>10</td><td>130</td><td>125</td><td>3% per annum</td></tr><tr><td><pre><code>1421760711
 </code></pre></td><td>link</td><td>10</td><td>130</td><td>125</td><td>3% per annum</td></tr></tbody></table>
 
-
-
-Algo/xUSD vault: [https://algoexplorer.io/application/1012903350](https://algoexplorer.io/application/1012903350)
