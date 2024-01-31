@@ -34,7 +34,7 @@ The protocol will take a 1% fee from all liquidations, and the stability pool st
 
 ## Redemption
 
-The redemption mechanism allows **1 xUSD token to be redeemed for $1 of underlying collateral, at all times**. This means if the peg is trading below the $1 target, people are able to buy on a DEX and instantly profit on the arbitrage opportunity. [Read more about redemptions.](redemptions.md)
+The redemption mechanism allows **1 xUSD token to be redeemed for $1 of underlying collateral  at a 1% discount 7 days after a vault is put in shutdown mode**. This means if the peg is trading below the $1 target, people are able to buy on a DEX and instantly profit on the arbitrage opportunity. This happening 7 days after a vault is put in shutdown mode also gives vault owners the option to close down their vaults to avoid being redeemed against and also avoids surprises [Read more about redemptions.](redemptions.md)
 
 ## xUSD Stability Pool
 
