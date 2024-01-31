@@ -22,11 +22,7 @@ If the liquidator uses staked xUSD, the staker will receive a 2% discount, the l
 
 ## Redemption
 
-When redeeming, a fee is applied to the collateral. For example, if you redeem 100 xUSD for $100 ALGO, you will receive $99 worth of ALGO.
-
-{% hint style="info" %}
-Example: with a 1% fee on redemptions, it only becomes worthwhile when xUSD is trading below the $0.98 peg
-{% endhint %}
+When redeeming, a fee is applied to the collateral. For example, if you redeem 100 xUSD for $101 ALGO, at a 1% you will receive $100.5 worth of ALGO.
 
 ## Fee Distribution
 
