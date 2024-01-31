@@ -10,14 +10,13 @@ xUSD: [https://algoexplorer.io/asset/760037151](https://algoexplorer.io/asset/76
 
 Vault Contracts:
 
-| Vault Id   | Collateral  | Liq Discount | Min C.R | Liq CR | Interest Rate |
-| ---------- | ----------- | ------------ | ------- | ------ | ------------- |
-| 1012903350 | Algo        | 5%           | 120%    | 115%   | 3% per annum  |
-| 1065042555 | gAlgo       | 10           | 130%    | 125%   | 3% per annum  |
-| 1119611603 | GOLD$       | 5            | 120%    | 115%   | 3% per annum  |
-| 1120776512 | SILVER$     | 5            | 120%    | 115%   | 3% per annum  |
-| 1127025818 | goBtc       | 5            | 120%    | 115%   | 3% per annum  |
-| 1127031775 | goEth       | 5            | 120%    | 115%   | 3% per annum  |
+<table><thead><tr><th width="192">Vault Id</th><th>Collateral </th><th>Liq Discount</th><th>Min C.R</th><th>Liq CR</th><th>Interest Rate</th></tr></thead><tbody><tr><td><p></p><pre class="language-typescript"><code class="lang-typescript">1256063618
+</code></pre></td><td>Algo</td><td>5%</td><td>120%</td><td>115%</td><td>3% per annum</td></tr><tr><td><p></p><pre class="language-typescript"><code class="lang-typescript">1256065446
+</code></pre></td><td>gAlgo</td><td>10</td><td>130%</td><td>125%</td><td>3% per annum</td></tr><tr><td><pre><code>1256066865
+</code></pre></td><td>GOLD$</td><td>5</td><td>120%</td><td>115%</td><td>3% per annum</td></tr><tr><td><pre><code>1256070920
+</code></pre></td><td>SILVER$</td><td>5</td><td>120%</td><td>115%</td><td>3% per annum</td></tr><tr><td><pre><code>1256072093
+</code></pre></td><td>goBtc</td><td>5</td><td>120%</td><td>115%</td><td>3% per annum</td></tr><tr><td><p></p><pre class="language-typescript"><code class="lang-typescript">1256073191
+</code></pre></td><td>goEth</td><td>5</td><td>120%</td><td>115%</td><td>3% per annum</td></tr></tbody></table>
 
 
 
