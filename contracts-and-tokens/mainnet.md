@@ -15,8 +15,14 @@ Vault Contracts:
 </code></pre></td><td>gAlgo</td><td>10</td><td>130%</td><td>125%</td><td>3% per annum</td></tr><tr><td><pre><code>1256066865
 </code></pre></td><td>GOLD$</td><td>5</td><td>120%</td><td>115%</td><td>3% per annum</td></tr><tr><td><pre><code>1256070920
 </code></pre></td><td>SILVER$</td><td>5</td><td>120%</td><td>115%</td><td>3% per annum</td></tr><tr><td><pre><code>1256072093
-</code></pre></td><td>goBtc</td><td>5</td><td>120%</td><td>115%</td><td>3% per annum</td></tr><tr><td><p></p><pre class="language-typescript"><code class="lang-typescript">1256073191
-</code></pre></td><td>goEth</td><td>5</td><td>120%</td><td>115%</td><td>3% per annum</td></tr></tbody></table>
+</code></pre></td><td>goBtc</td><td>5</td><td>120%</td><td>115%</td><td>3% per annum</td></tr><tr><td><pre><code>1256073191
+</code></pre></td><td>goEth</td><td>5</td><td>120%</td><td>115%</td><td>3% per annum</td></tr><tr><td><pre><code>1265849839
+</code></pre></td><td><p></p><pre class="language-typescript"><code class="lang-typescript">wrappedSol
+</code></pre></td><td>5</td><td>120</td><td>115</td><td>3% per annum</td></tr><tr><td><pre><code>1273568518
+</code></pre></td><td><p></p><pre class="language-typescript"><code class="lang-typescript">wrappedAvax
+</code></pre></td><td>5</td><td>120</td><td>115</td><td>3% per annum</td></tr><tr><td><pre><code>1403586486
+</code></pre></td><td>mAlgo</td><td>10</td><td>130</td><td>125</td><td>3% per annum</td></tr><tr><td><pre><code>1421760711
+</code></pre></td><td>link</td><td>10</td><td>130</td><td>125</td><td>3% per annum</td></tr></tbody></table>
 
 
 
