@@ -12,7 +12,7 @@ These supply fees **are fixed, and will not change.** To change supply fees, vau
 
 ## What collateral can I use?
 
-xBacked is multi-collateral. Currently, we are planning to have Algo, goBTC, goETH and gAlgo, which all have strong liquidity. In the further future the team and community will assess other options.
+xBacked is multi-collateral. Currently, a range of assets are available including ALGO, goBTC, goETH, GOLD$ and more. See a full list including vault parameters for each [here](https://docs.xbacked.io/contracts-and-tokens/mainnet). In the further future, the team and community will assess other options.
 
 ## How are new collateral types integrated?
 
