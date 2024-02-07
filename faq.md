@@ -41,11 +41,11 @@ xBacked does not natively allow users to stake Algos for governance. Instead, we
 
 ## What is the minimum collateral ratio?
 
-This varies per vault, but could be as low as 110% depending on the collateral type. [Read more about vaults here.](product/vaults.md)
+This varies per vault but could be as low as 110% depending on the collateral type.[ Check out individual Min Cr values for each vault here](https://docs.xbacked.io/contracts-and-tokens/mainnet)
 
-## What is the minimum amount of collateral required to open a vault?
+## What is the minimum amount of xUsd required to open a vault?
 
-$100 USD, but could vary per vault and change over time.
+$100 xUsd, but could vary per vault and change over time.
 
 ## Is xBacked a DAO?
 
