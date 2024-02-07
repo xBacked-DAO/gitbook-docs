@@ -56,6 +56,3 @@ Yes, we are working towards a fully decentralized governance model.
 * [Join the community](community-links.md)
 * [Read about participating in governance](governance/participating-in-governance.md)
 
-## Does xBacked have a bug bounty program?
-
-Absolutely, [please follow the documentation](broken-reference) to participate in our bug bounty program.
