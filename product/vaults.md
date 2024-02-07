@@ -44,7 +44,7 @@ Yes, vaults will have a maximum dollar value for the collateral allowed. This is
 
 ## What collateral types does xBacked support?
 
-xBacked is multi-collateral and supports a diverse range of collateral types. To beign with, we will support Algos, BTC, ETH and gAlgo.
+xBacked is multi-collateral and supports a diverse range of collateral types. View the current range of collateral options and their vault parameters [here](https://docs.xbacked.io/contracts-and-tokens/mainnet)
 
 ## Do Vaults have an interest rate?
 
