@@ -23,9 +23,7 @@ The following factors are considered when selecting new collateral types for xBa
 * Community demand; will our users actually find this introduction valuable?
 * Price feeds; can we get or create reliable price feeds for this asset?
 
-## Will I still receive ALGO Rewards?
 
-No, you will not receive Algo rewards. These will accrue in the vault, and when the vault eventually closes the DAO will receive any accrued rewards. In this event, the DAO will create a community proposal for how the funds should be used.
 
 ## Can I participate in Algorand Governance via xBacked?
 
