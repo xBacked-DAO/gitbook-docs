@@ -58,10 +58,10 @@ No, there is no repayment schedule for xUSD. When a user mints xUSD there is **n
 
 If your vault collateral ratio drops below the minium (e.g`110%`) then it is liquidated. In this case, your vault will be liquidated back to `120%` and you will be left with the remaining vault collateral & xUSD.
 
-In this process, liquidators repay your vaults debt.
+In this process, liquidators repay your vault debt. You can read more about liquidation [here](https://docs.xbacked.io/product/liquidations)
 
 ## What happens if my Vault is redeemed against?
 
-In the event of a redemption against your vault, it would have been the riskiest vault in the system at the time. Even if your collateral ratio is healthy (e.g `125%`) a redemption will still happen.
+Any vault can be redeemed against 7 days after shutdown even if your collateral ratio is healthy (e.g `125%`) a redemption will still happen.
 
-In this case, a part or all of your collateral can be redeemed. You will keep the xUSD minted, but your collateral will be reduced partially, or completely (and your debt will be reduced partially or completely too).
+In this case, a part or almost all of your collateral can be redeemed. You will keep the xUSD minted, but your collateral will be reduced partially (and your debt will be reduced partially or completely too). You can read more about redemptions [here](https://docs.xbacked.io/product/redemptions)
