@@ -27,7 +27,7 @@ The following factors are considered when selecting new collateral types for xBa
 
 ## Can I participate in Algorand Governance via xBacked?
 
-xBacked does not natively allow users to stake Algos for governance. Instead, we plan to integrate with Liquid Staking assets like gAlgo from Folks Finance. We are focused on being the **best stablecoin, not liquid staking.** Leveraging composability, we can still allow users to participate in governance & xBacked.
+xBacked does not natively allow users to stake Algos for governance. Instead, we have integrated Liquid Staking assets like gAlgo from Folks Finance and mAlgo from Messina. We are focused on being the **best stablecoin, not liquid staking.** Leveraging composability, we can still allow users to participate in governance & xBacked.
 
 ## What are the fees for xBacked?
 
