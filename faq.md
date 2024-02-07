@@ -6,7 +6,7 @@ description: Quick answers to FAQs on the xBacked protocol
 
 ## What are the fees?
 
-Supply fees vary per vault. Algo/xUSD might have an annual fee of 3.5% while BTC/xUSD might have 5%.
+Supply fees can vary per vault. Presently, all vaults have an annual fee of 3%
 
 These supply fees **are fixed, and will not change.** To change supply fees, vaults must be deprecated & redeployed with a new fee rate. Read more about deprecation.
 
