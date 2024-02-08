@@ -15,7 +15,7 @@
 * [xUSD Stability Pool](product/liquidations/staking-xusd.md)
 * [Redemptions](product/redemptions.md)
 * [Fees](product/fees.md)
-* [xUSD Stability](product/xusd-stability.md)
+* [xUSD Stability: Coming Soon](product/xusd-stability.md)
 * [Shutdown Mode](product/shutdown-mode.md)
 
 ## Tokenomics

@@ -1,10 +1,10 @@
 ---
-description: Stability mechanisms for xUSD explained
+description: Planned Stability mechanisms for xUSD explained
 ---
 
-# xUSD Stability
+# xUSD Stability: Coming Soon
 
-## Over Collateralized Portfolio of Assets on the Balance Sheet
+## OverCollateralized Portfolio of Assets on the Balance Sheet
 
 ![Balance sheet comparison of Banks vs Crypto Protocols. xBacked is closest to MakerDAO. There is no negative equity in our protocol.](<../.gitbook/assets/image (10).png>)
 
