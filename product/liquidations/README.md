@@ -8,7 +8,7 @@ The xBacked protocol allows users to stake xUSD into a pool used by the system f
 
 ## When do liquidations happen?
 
-As soon as a vault collateral ratio drops below `110%` liquidion can begin. In this scenario, xUSD is used to repay the vault debt. The collateral is then transferred to the liquidator.
+As soon as a vault collateral ratio drops below `110%` liquidation can begin. In this scenario, xUSD is used to repay the vault debt. The collateral is then transferred to the liquidator.
 
 This happens until a vault collateral ratio is back to `120%`
 

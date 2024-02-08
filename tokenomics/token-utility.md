@@ -17,7 +17,7 @@ Staking xUSD requires those tokens to be used in liquidations executed by the pr
 To maintain a stable value for xUSD the following methods are used:
 
 * Over collaterization of approved forms of collateral (beginning with ALGO). 1 xUSD token is backed by **more than $1 USD of collateral.** This is maintained through [liquidations](../product/liquidations/).
-* Arbitrage when xUSD is discounted: if the price of xUSD is trading at a discount (below $1 USD) users are able to purchase it, and repay debt at a cheaper rate. As participants purchase xUSD the price rises
+* Arbitrage when xUSD is discounted: if the price of xUSD is trading at a discount (below $1 USD) users are able to purchase it, and repay debt at a cheaper rate. As participants purchase xUSD the price rises.
 * Arbitrage when xUSD is trading at a premium: if the price of xUSD is trading at a premium (above $1 USD) participants could deposit collateral to mint xUSD to then sell on the open market. This selling of xUSD reduces the price.
 * Redemption: [read about redemption here](../product/redemptions.md).
 
