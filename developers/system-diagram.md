@@ -1,3 +1,4 @@
 # System Diagram
 
-![](../.gitbook/assets/xbacked-diagram\(1\).png)
+![](<../.gitbook/assets/Current Xbacked System Diagram.drawio (2).png>)
+
