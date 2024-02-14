@@ -4,7 +4,7 @@ Shutdown mode ensures that all xUSD can be returned for underlying collateral. W
 
 ## Vault Owners
 
-Vault owners have 48hrs after to return xUSD and close their vaults. After this, their vault may be redeemed against.
+Vault owners have 7 days after shutdown to return xUSD and close their vaults. After this, their vault may be redeemed against.
 
 ## xUSD Holders
 
