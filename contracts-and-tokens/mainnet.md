@@ -20,5 +20,6 @@ Vault Contracts:
 </code></pre></td><td>SOL</td><td>5%</td><td>120%</td><td>115%</td><td>3% per annum</td></tr><tr><td><pre><code>1273568518
 </code></pre></td><td>wAVAX</td><td>5%</td><td>120%</td><td>115%</td><td>3% per annum</td></tr><tr><td><pre><code>1403586486
 </code></pre></td><td>mALGO</td><td>10%</td><td>130%</td><td>125%</td><td>3% per annum</td></tr><tr><td><pre><code>1421760711
-</code></pre></td><td>LINK</td><td>10%</td><td>130%</td><td>125%</td><td>3% per annum</td></tr></tbody></table>
+</code></pre></td><td>LINK</td><td>10%</td><td>130%</td><td>125%</td><td>3% per annum</td></tr><tr><td><p></p><pre><code>1519754904
+</code></pre></td><td>COOP</td><td>30%</td><td>205%</td><td>200%</td><td>3% per annum</td></tr></tbody></table>
 
